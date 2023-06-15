@@ -14,8 +14,6 @@ Input number two(b): ??
 answer = sum(a,b)
 
 
-
-
 // Exercise 2: Check if a Number is Even or Odd
 
 (Your pseudocode here)
