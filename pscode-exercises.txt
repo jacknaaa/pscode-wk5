@@ -1,18 +1,17 @@
 // Exercise 1: Calculate the Sum of Two Numbers
 
+(Your pseudocode here)
+
 function sum(a,b){
 	return a+b
 }
 
 a = int
 b = int
-Input number one : ??
-Input number two : ??
+Input number one(a) : ??
+Input number two(b): ??
 
-sum(a,b)
-
-(Your pseudocode here)
-
+answer = sum(a,b)
 
 
 
@@ -20,6 +19,23 @@ sum(a,b)
 // Exercise 2: Check if a Number is Even or Odd
 
 (Your pseudocode here)
+
+function check_even_odd(number){
+	even_odd = number % 2
+
+	if(even_odd == 1){
+		print("this number is ODD")
+	}else{
+		print("this number is EVEN")
+	} 
+}
+
+number_a = int
+
+Input number one(number_a) : ??
+check_even_odd(number_a)
+
+
 
 // Exercise 3: 
 Write pseudo code that will perform the following.    
